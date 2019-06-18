@@ -8,13 +8,14 @@ This is a repository with all C programs and algorithms made during my undergrat
 - Source of study.
 
 The repository is divided on four main parts:
-- Algorithms (Basics of programming, variables and constants, I/O funcions, conditional structures, repetition structures, vectors, matrix, function and procedures);
+- Algorithms (Basics of programming, variables and constants, I/O functions, conditional structures, repetition structures, vectors, matrix, function and procedures);
 - Data structures (Pointers, dynamic memory allocation, linked lists, queues, stacks, binary trees, binary search, AVL trees, graphs, Breadth-First Search (BFS), Depth-First Search (DFS).
 - Data research and classification (sorting algorithms, external sort, hash tables, compressing algorithms).
 - Applications and algorithms (generic lists, graphs, cryptography, special topics on algorithms).
 
 For C codes, some patterns are being followed:
 - In every file, the first line contain an simple explanation about the code. Second line has the subject. the third line shows the author.
-- For each new modification made by other authors, it is essential to include the author name in the next ilnes.
+- For each new modification made by other authors, it is essential to include the author name in the next lines.
+- At the moment, the code is in portuguese. With time, they will be in english.
 
-If anyone have changes to do, sugestions to make or proposals to add, please, feel free to help :)
+If anyone has changes to do, sugestions to make or proposals to add, please, feel free to help :)
