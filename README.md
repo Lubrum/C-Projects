@@ -14,8 +14,8 @@ The repository is divided on four main parts:
 - Applications and algorithms (generic lists, graphs, cryptography, special topics on algorithms).
 
 For C codes, some patterns are being followed:
-- In every file, the first line contain an simple explanation about the code. Second line has the subject. the third line shows the author.
+- In every file, the first line contain an simple explanation about the code. Second line has the subject. The third line shows the author.
 - For each new modification made by other authors, it is essential to include the author name in the next lines.
-- At the moment, the code is in portuguese. With time, they will be in english.
+- At the moment, some of the codes are in portuguese. With time, they will be in english.
 
 If anyone has changes to do, sugestions to make or proposals to add, please, feel free to help :)
