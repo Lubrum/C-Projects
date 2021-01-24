@@ -1,4 +1,6 @@
-## Welcome to Projetos-em-C (C Projects)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Lubrum/C-Projects) ![GitHub last commit](https://img.shields.io/github/last-commit/Lubrum/C-Projects) ![GitHub repo size](https://img.shields.io/github/repo-size/Lubrum/C-Projects)
+
+# Welcome to Projetos-em-C (C Projects)
 
 This is a repository with all C programs and algorithms made during my undergratuation. With time, all codes will be upgraded and didatic videos will be produced. Main goals:
 
